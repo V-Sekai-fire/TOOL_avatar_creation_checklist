@@ -7,3 +7,7 @@
 1. tastt's text player
 1. overly or dimm bright lights don't break the avatar surface
 1. Gut feel check
+
+## Avatar VRM processing pipeline
+
+Processed.
